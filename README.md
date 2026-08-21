@@ -27,5 +27,5 @@ Atualmente estou direcionando minha carreira para tecnologia e desenvolvendo con
 
 ## 🔗 Contato
 
-- [LinkedIn] https://www.linkedin.com/in/isabelle-martins-78102229b/
+- [LinkedIn](https://www.linkedin.com/in/isabelle-martins-78102229b/)
 - E-mail: isabelemartins916@gmail.com
